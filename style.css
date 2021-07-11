@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: space-around;
+}
+p {
+    display: block;
+    font-size: 120px;
+    border: 2px solid black;
+}
